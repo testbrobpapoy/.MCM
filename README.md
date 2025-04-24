@@ -6,19 +6,19 @@ Criteria that shaped the list:
 - Projects from the whole MCM (Marvel Cinematic Multiverse), regardless of studio.
 - Live‑action films and series only — no animated versions.
 - No commercials or similar promo shorts.
-- Quality matters: projects like Thor: Love and Thunder, Secret Invasion, Echo, She‑Hulk, Daredevil (2003), Runaways… don’t deserve a place at all — maybe only the trailer (I already tried to keep as many as possible, sorry for Ant‑Man and the Wasp: Quantumania).
-- A project isn’t added if it breaks the lore established by previous entries — e.g. The Marvels, Moon Knight, Ms. Marvel… (some of them get only the first episode in the list).
+- Quality matters: projects like Thor: Love and Thunder, Secret Invasion, Echo, She‑Hulk, Daredevil (2003), Runaways... don’t deserve a place at all — maybe only the trailer (I already tried to keep as many as possible, sorry for Ant‑Man and the Wasp: Quantumania).
+- A project isn’t added if it breaks the lore established by previous entries — e.g. The Marvels, Moon Knight, Ms. Marvel... (some of them get only the first episode in the list).
 - Even though release date is the baseline, I obviously moved some titles around so the watch‑through wouldn’t be dull — sometimes four series landed in a row, or plotlines felt too scattered.
 - I tried to split the series up so their connections were felt yet the individual plot wasn’t forgotten when it intertwined with many other projects.
-- Some placements may look odd — Madame Web, I Am Groot Season 1, Logan, Black Widow… but that’s just how I felt it should be, and explaining it all would take ages, LOL.
+- Some placements may look odd — Madame Web, I Am Groot Season 1, Logan, Black Widow... but that’s just how I felt it should be, and explaining it all would take ages, LOL.
 
 ## The list
-- Duration - ()<br>
+- Duration - 17:23:36:44<br>
 [u-X] X-Men (1:24:06)<br>
 [u-Maguire] Spider-Man (1:56:18)<br>
 [u-X] X2 (2:05:18)<br>
 [u-Blade] Blade 2 (1:49:14)<br>
-[u-Blade] Blade: Trinity Trailer (0:02:21)<br>
+[u-Blade] Trailer Blade: Trinity (0:02:21)<br>
 [u-Maguire] The Punisher (1:55:44)<br>
 [u-Maguire] Spider-Man 2 (2:00:03)<br>
 [u-Garfield] Madame Web (1:50:19)<br>
@@ -111,7 +111,8 @@ Criteria that shaped the list:
 [u-199999] Agents of S.H.I.E.L.D. 5 season 21-22 episode (1:25:26)<br>
 [u-199999] Avengers: Infinity War (2:19:34)<br>
 [u-Garfield] Venom (1:36:41)<br>
-[u-199999] Agents of S.H.I.E.L.D. 6 season 1 episode (0:41:42)[u-Deadpool] Deadpool 2 (2:08:29)<br>
+[u-199999] Agents of S.H.I.E.L.D. 6 season 1 episode (0:41:42)<br>
+[u-Deadpool] Deadpool 2 (2:08:29)<br>
 [u-199999] Agents of S.H.I.E.L.D. 6 season 2-9 episode (4:40:52)<br>
 [u-199999] Captain Marvel (1:56:18)<br>
 [u-199999] Agents of S.H.I.E.L.D. 6 season 10-13 episode (3:00:00)<br>
@@ -133,38 +134,38 @@ Criteria that shaped the list:
 [u-199999] Shang-Chi and the Legend of the Ten Rings (2:03:54)<br>
 [u-199999] The Falcon and The Winter Soldier 1 season 2-6 episode (3:53:55)<br>
 [u-199999] Eternals (2:29:50)<br>
-[u-199999] Hawkeye 1 season (4:03:40)‌<br>
-[u-Garfield] Venom: Let There Be Carnage (1:29:18)‌<br>
-[u-199999] Spider-Man: No Way Home (2:21:46)‌<br>
-[u-Garfield] Morbius (1:37:50)‌<br>
+[u-199999] Hawkeye 1 season (4:03:40)<br>
+[u-Garfield] Venom: Let There Be Carnage (1:29:18)<br>
+[u-199999] Spider-Man: No Way Home (2:21:46)<br>
+[u-Garfield] Morbius (1:37:50)<br>
 [u-199999] Moon Knight 1 season 1 episode (0:41:11)<br>
 [MULTIVERSE] Doctor Strange in the Multiverse of Madness (1:59:39)<br>
-[u-Werewolf] Man-Thing Trailer (0:02:00)‌<br>
-[u-Werewolf] Werewolf by Night (0:49:16)‌<br>
-[u-199999] Ms. Marvel 1 season 1 episode (0:42:30)‌<br>
-[u-199999] Black Panther: Wakanda Forever (2:33:56)‌<br>
+[u-Werewolf] Trailer Man-Thing (0:02:00)<br>
+[u-Werewolf] Werewolf by Night (0:49:16)<br>
+[u-199999] Ms. Marvel 1 season 1 episode (0:42:30)<br>
+[u-199999] Black Panther: Wakanda Forever (2:33:56)<br>
 [MULTIVERSE] Ant-Man and the Wasp: Quantumania (1:57:21)<br>
-[u-199999] She-Hulk: Attorney at Law 1 season Trailer (00:01:52)<br>
-[MULTIVERSE] Loki 2 season (4:39:11)‌<br>
-[u-199999] The Marvels Trailer (0:02:27)<br>
+[u-199999] Trailer She-Hulk: Attorney at Law 1 season (00:01:52)<br>
+[MULTIVERSE] Loki 2 season (4:39:11)<br>
+[u-199999] Trailer The Marvels (0:02:27)<br>
 [u-199999] Guardians of the Galaxy Vol. 3 (2:27:50)<br>
-[u-199999] Echo 1 season Trailer (0:01:00)<br>
+[u-199999] Trailer Echo 1 season (0:01:00)<br>
 [MULTIVERSE] Deadpool & Wolverine (2:03:41)<br>
 [u-Garfield] Venom: The Last Dance (1:35:53)<br>
 [u-199999] Agatha All Along 1 season (5:16:09)<br>
-[u-Garfield] Kraven the Hunter (1:58:47)‌<br>
+[u-Garfield] Kraven the Hunter (1:58:47)<br>
 [u-199999] Captain America: Brave New World (1:51:36)<br>
 [u-199999] Daredevil: Born Again 1 season 1-9 episode (6:47:21)<br>
 [u-199999] Thunderbolts* ()<br>
 
-## Universes
-1) [MULTIVERSE]
-2) [u-X]
-3) [u-Maguire]
-4) [u-Fantastic]
-5) [u-Garfield]
-6) [u-199999]
-7) [u-Deadpool]
-8) [u-Legion]
-9) [u-Werewolf]
-10) [u-Blade]
+## Universes (143)
+1) [MULTIVERSE] - 7
+2) [u-X] - 11
+3) [u-Maguire] - 4
+4) [u-Fantastic] - 2
+5) [u-Garfield] - 10
+6) [u-199999] - 99
+7) [u-Deadpool] - 3
+8) [u-Legion] - 3
+9) [u-Werewolf] - 2
+10) [u-Blade] - 2
