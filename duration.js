@@ -29,4 +29,4 @@ const minutes = Math.floor(remainder / 60);
 const seconds = remainder % 60;
 
 console.log(`Total seconds: ${totalSeconds}`);
-console.log(`That's ${days}:${hours}:${minutes}:${seconds}`);
+console.log(`Summary - ${days}:${hours}:${minutes}:${seconds}`);
