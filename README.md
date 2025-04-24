@@ -11,7 +11,6 @@ Criteria that shaped the list:
 - Even though release date is the baseline, I obviously moved some titles around so the watch‑through wouldn’t be dull — sometimes four series landed in a row, or plotlines felt too scattered.
 - I tried to split the series up so their connections were felt yet the individual plot wasn’t forgotten when it intertwined with many other projects.
 - Some placements may look odd — Madame Web, I Am Groot Season 1, Logan, Black Widow… but that’s just how I felt it should be, and explaining it all would take ages, LOL.
-*u - universe
 
 ## The list
 - Duration - ()<br>
