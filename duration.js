@@ -1,6 +1,6 @@
 const { execSync } = require("child_process");
 const timestamps = String(
-  execSync("grep -Eo '([0-9]{1,2}:[0-9]{2}:[0-9]{2})' README.md")
+  execSync("grep -Eo '\\([0-9]{1,2}:[0-9]{2}:[0-9]{2}\\)' README.md")
 );
 
 const lines = timestamps.split("\n");
