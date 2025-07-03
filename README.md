@@ -156,7 +156,7 @@ Criteria that shaped the list:
 [u-Garfield] Kraven the Hunter (1:58:47)<br>
 [u-199999] Captain America: Brave New World (1:51:36)<br>
 [u-199999] Daredevil: Born Again 1 season 1-9 episode (6:47:21)<br>
-[u-199999] Thunderbolts* ()<br>
+[u-199999] Thunderbolts* (1:59:34)<br>
 
 ## Universes (143)
 1) [MULTIVERSE] - 7
