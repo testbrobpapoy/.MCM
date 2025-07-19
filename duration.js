@@ -6,6 +6,9 @@ const timestamps = String(
 const lines = timestamps.split("\n");
 let totalSeconds = 0;
 
+const add0 = (duration) =>
+  duration.toString().length === 1 ? "0" + duration : duration;
+
 lines.forEach((line) => {
   const time = line.replace(/[()]/g, "");
   const parts = time.split(":");
@@ -29,4 +32,6 @@ const minutes = Math.floor(remainder / 60);
 const seconds = remainder % 60;
 
 console.log(`Total seconds: ${totalSeconds}`);
-console.log(`Summary - ${days}:${hours}:${minutes}:${seconds}`);
+console.log(
+  `Summary - ${add0(days)}:${add0(hours)}:${add0(minutes)}:${add0(seconds)}`
+);
