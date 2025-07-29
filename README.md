@@ -1,4 +1,4 @@
-# Legacy marvel list
+# Legacy Marvel Order
 This list is an entirely subjective fan opinion.
 Criteria that shaped the list:
 - Release date was taken as the main reference for each project. I’ve seen many lists ordered strictly by in‑universe chronology, and I really dislike that: putting Captain Marvel first in the MCU would be a pretty weird opening, not to mention the spoilers for later projects. Besides, building the order purely on chronology erases such a storytelling device as the prequel.
@@ -16,8 +16,8 @@ Criteria that shaped the list:
 - Duration - 18:04:06:46<br>
 [u-X] X-Men (1:24:06)<br>
 [u-Maguire] Spider-Man (1:56:18)<br>
-[u-X] X2 (2:05:18)<br>
-[u-Blade] Blade 2 (1:49:14)<br>
+[u-X] X2: X-Men United (2:05:18)<br>
+[u-Blade] Blade II (1:49:14)<br>
 [u-Blade] Trailer Blade: Trinity (0:02:21)<br>
 [u-Maguire] The Punisher (1:55:44)<br>
 [u-Maguire] Spider-Man 2 (2:00:03)<br>
@@ -58,7 +58,7 @@ Criteria that shaped the list:
 [u-199999] I Am Groot 2 season 1-5 episode (0:16:54)<br>
 [u-199999] Agents of S.H.I.E.L.D. 2 season 11-19 episode (6:18:34)<br>
 [u-199999] Avengers: Age of Ultron (2:13:26)<br>
-[u-199999] WHIH Newsfront 1 season (0:09:46)<br>
+[u-199999] WHIH Newsfront 1 season 1-5 episode (0:09:46)<br>
 [u-199999] Agents of S.H.I.E.L.D. 2 season 20-22 episode (2:07:13)<br>
 [u-Deadpool] Deadpool (1:44:24)<br>
 [u-199999] Daredevil 1 season 1-13 episode (11:07:20)<br>
@@ -69,11 +69,12 @@ Criteria that shaped the list:
 [u-199999] Luke Cage 1 season 4-13 episode (09:22:22)<br>
 [u-199999] Agents of S.H.I.E.L.D. 3 season 9-19 episode (8:27:36)<br>
 [u-199999] Agent Carter 2 season 1-10 episode (8:01:36)<br>
-[u-199999] WHIH Newsfront 2 season (0:13:30)<br>
+[u-199999] WHIH Newsfront 2 season 1-5 episode (0:13:30)<br>
 [u-199999] Marvel One-Shot: Agent Carter (0:12:30)<br>
 [u-199999] Captain America: Civil War (2:21:18)<br>
 [u-199999] Agents of S.H.I.E.L.D. 3 season 20-22 episode (2:06:53)<br>
-[u-199999] Team Thor 1-2 parts (0:07:55)<br>
+[u-199999] Team Thor (0:03:00)<br>
+[u-199999] Team Thor: Part 2 (0:04:55)<br>
 [u-199999] Daredevil 2 season 1-12 episode (10:30:00)<br>
 [u-199999] Iron Fist 1 season 1-13 episode (11:18:04)<br>
 [u-199999] Daredevil 2 season 13 episode (0:47:37)<br>
@@ -99,7 +100,7 @@ Criteria that shaped the list:
 [u-199999] Agents of S.H.I.E.L.D. 4 season 9-10 episode (1:30:00)<br>
 [u-199999] Spider-Man: Homecoming (2:06:44)<br>
 [u-199999] Agents of S.H.I.E.L.D. 4 season 11-22 episode (8:54:45)<br>
-[u-X] Dark Phoenix (1:47:01)<br>
+[u-X] X-Men: Dark Phoenix (1:47:01)<br>
 [u-199999] Jessica Jones 3 season 1-12 episode (9:27:44)<br>
 [u-Deadpool] Deadpool: No Good Deed (0:03:42)<br>
 [u-199999] Jessica Jones 3 season 13 episode (0:49:13)<br>
@@ -161,13 +162,13 @@ Criteria that shaped the list:
 [u-199999] Ironheart 1 season 1, 3, 6 episode (2:13:34)<br>
 [] The Fantastic Four: First Steps ()<br>
 
-## Universes (145)
+## Universes (147)
 1) [MULTIVERSE] - 7
 2) [u-X] - 11
 3) [u-Maguire] - 4
 4) [u-Fantastic] - 2
 5) [u-Garfield] - 10
-6) [u-199999] - 101
+6) [u-199999] - 102
 7) [u-Deadpool] - 3
 8) [u-Legion] - 3
 9) [u-Werewolf] - 2
