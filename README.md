@@ -1,4 +1,4 @@
-# Legacy Marvel Order
+# Marvel Order
 This list is an entirely subjective fan opinion.
 Criteria that shaped the list:
 - Release date was taken as the main reference for each project. I’ve seen many lists ordered strictly by in‑universe chronology, and I really dislike that: putting Captain Marvel first in the MCU would be a pretty weird opening, not to mention the spoilers for later projects. Besides, building the order purely on chronology erases such a storytelling device as the prequel.
@@ -6,14 +6,14 @@ Criteria that shaped the list:
 - Projects from the whole MCM (Marvel Cinematic Multiverse), regardless of studio.
 - Live‑action films and series only — no animated versions.
 - No commercials or similar promo shorts.
-- Quality matters: projects like Thor: Love and Thunder, Secret Invasion, Echo, She‑Hulk, Daredevil (2003), Runaways... don’t deserve a place at all — maybe only the trailer (I already tried to keep as many as possible, sorry for Ant‑Man and the Wasp: Quantumania).
+- Quality matters: projects like Thor: Love and Thunder, Secret Invasion, Echo, She‑Hulk, Daredevil (2003), Runaways... don’t deserve a place at all — maybe only the trailer (I already tried to keep as many as possible).
 - A project isn’t added if it breaks the lore established by previous entries — e.g. The Marvels, Moon Knight, Ms. Marvel... (some of them get only the first episode in the list).
 - Even though release date is the baseline, I obviously moved some titles around so the watch‑through wouldn’t be dull — sometimes four series landed in a row, or plotlines felt too scattered.
 - I tried to split the series up so their connections were felt yet the individual plot wasn’t forgotten when it intertwined with many other projects.
 - Some placements may look odd — Madame Web, I Am Groot, Logan, Black Widow... but that’s just how I felt it should be, and explaining it all would take ages, LOL :)
 
 ## The list
-- Duration - 18:04:06:46<br>
+- Duration - 18:04:45:10<br>
 [u-X] X-Men (1:24:06)<br>
 [u-Maguire] Spider-Man (1:56:18)<br>
 [u-X] X2: X-Men United (2:05:18)<br>
@@ -22,10 +22,10 @@ Criteria that shaped the list:
 [u-Maguire] The Punisher (1:55:44)<br>
 [u-Maguire] Spider-Man 2 (2:00:03)<br>
 [u-Garfield] Madame Web (1:50:19)<br>
-[u-Fantastic] Fantastic Four (1:38:33)<br>
+[u-Inhumans] Fantastic Four (1:38:33)<br>
 [u-X] X-Men: The Last Stand (1:37:58)<br>
 [u-Garfield] Ghost Rider (1:50:43)<br>
-[u-Fantastic] Fantastic Four: Rise of the Silver Surfer (1:26:18)<br>
+[u-Inhumans] Fantastic Four: Rise of the Silver Surfer (1:26:18)<br>
 [u-Maguire] Spider-Man 3 (2:14:13)<br>
 [u-199999] Iron Man (1:57:53)<br>
 [u-199999] The Incredible Hulk (1:45:08)<br>
@@ -121,7 +121,6 @@ Criteria that shaped the list:
 [u-199999] Ant-Man and the Wasp (1:51:24)<br>
 [u-199999] Agents of S.H.I.E.L.D. 7 season 1-12 episode (8:22:34)<br>
 [u-199999] Avengers: Endgame (2:54:00)<br>
-[MULTIVERSE] The end of infinity saga - https://youtu.be/REmbZpRifdU (0:03:26)<br>
 [u-199999] Agents of S.H.I.E.L.D. 7 season 13 episode (0:43:01)<br>
 [u-X] Logan (2:11:44)<br>
 [u-199999] Spider-Man: Far From Home (2:02:25)<br>
@@ -141,6 +140,7 @@ Criteria that shaped the list:
 [u-199999] Spider-Man: No Way Home (2:21:46)<br>
 [u-Garfield] Morbius (1:37:50)<br>
 [u-199999] Moon Knight 1 season 1 episode (0:41:11)<br>
+[u-Inhumans] Inhumans 1 season 1 episode (0:41:50)<br>
 [MULTIVERSE] Doctor Strange in the Multiverse of Madness (1:59:39)<br>
 [u-Werewolf] Trailer Man-Thing (0:02:00)<br>
 [u-Werewolf] Werewolf by Night (0:49:16)<br>
@@ -166,7 +166,7 @@ Criteria that shaped the list:
 1) [MULTIVERSE] - 7
 2) [u-X] - 11
 3) [u-Maguire] - 4
-4) [u-Fantastic] - 2
+4) [u-Inhumans] - 3
 5) [u-Garfield] - 10
 6) [u-199999] - 102
 7) [u-Deadpool] - 3
