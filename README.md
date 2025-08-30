@@ -12,8 +12,10 @@ Criteria that shaped the list:
 - I tried to split the series up so their connections were felt yet the individual plot wasn’t forgotten when it intertwined with many other projects.
 - Some placements may look odd — Madame Web, I Am Groot, Logan, Black Widow... but that’s just how I felt it should be, and explaining it all would take ages, LOL :)
 
-## The list
-- Duration - 18:04:45:10<br>
+## The list ([IMDb](https://www.imdb.com/list/ls4105873713/?view=detailed&ref_=ext_shr_lnk))
+**Duration - 18:04:01:49**<br>
+**Titles - 147**<br>
+
 [u-X] X-Men (1:24:06)<br>
 [u-Maguire] Spider-Man (1:56:18)<br>
 [u-X] X2: X-Men United (2:05:18)<br>
@@ -32,7 +34,6 @@ Criteria that shaped the list:
 [u-X] X-Men Origins: Wolverine (1:41:40)<br>
 [u-199999] Iron Man 2 (1:57:14)<br>
 [u-199999] Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (00:02:40)<br>
-[u-Garfield] Ghost Rider: Spirit of Vengeance (1:28:12)<br>
 [u-199999] Thor (1:48:51)<br>
 [u-X] X-Men: First Class (1:59:56)<br>
 [u-199999] Captain America: The First Avenger (1:56:28)<br>
@@ -50,6 +51,7 @@ Criteria that shaped the list:
 [u-199999] Agents of S.H.I.E.L.D. 1 season 13-16 episode (2:46:56)<br>
 [u-199999] Captain America: The Winter Soldier (2:08:54)<br>
 [u-199999] Agents of S.H.I.E.L.D. 1 season 17-22 episode (3:31:59)<br>
+[u-X] The Gifted 1 season 1 episode (0:44:51)<br>
 [u-X] X-Men: Days of Future Past (2:03:24)<br>
 [u-199999] Guardians of the Galaxy (1:54:46)<br>
 [u-199999] Agents of S.H.I.E.L.D. 2 season 1-10 episode (7:01:21)<br>
@@ -162,12 +164,12 @@ Criteria that shaped the list:
 [u-199999] Ironheart 1 season 1, 3, 6 episode (2:13:34)<br>
 [] The Fantastic Four: First Steps ()<br>
 
-## Universes (147)
+## Universes
 1) [MULTIVERSE] - 7
-2) [u-X] - 11
+2) [u-X] - 12
 3) [u-Maguire] - 4
 4) [u-Inhumans] - 3
-5) [u-Garfield] - 10
+5) [u-Garfield] - 9
 6) [u-199999] - 102
 7) [u-Deadpool] - 3
 8) [u-Legion] - 3
