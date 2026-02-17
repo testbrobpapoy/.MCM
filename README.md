@@ -13,8 +13,8 @@ Criteria that shaped the list:
 - Some placements may look odd — Madame Web, I Am Groot, Logan, Black Widow... but that’s just how I felt it should be, and explaining it all would take ages, LOL :)
 
 ## The list ([IMDb](https://www.imdb.com/list/ls4105873713/?view=detailed&ref_=ext_shr_lnk))
-**Duration - 18:05:49:10 (without credits)**<br>
-**Titles - 148**<br>
+**Duration - 18:09:28:11 (without credits)**<br>
+**Titles - 149**<br>
 
 *[u-X]* X-Men (1:24:06)<br>
 *[u-Maguire]* Spider-Man (1:56:18)<br>
@@ -163,6 +163,7 @@ Criteria that shaped the list:
 *[u-199999]* Thunderbolts* (1:59:34)<br>
 *[u-199999]* Ironheart 1 season 1, 3, 6 episode (2:13:34)<br>
 *[u-828]* The Fantastic Four: First Steps (1:47:21)<br>
+*[u-199999]* Wonder Man 1 season 1-8 episode (3:39:01)<br>
 
 ## Universes
 1) [MULTIVERSE] - 7
@@ -170,7 +171,7 @@ Criteria that shaped the list:
 3) [u-Maguire] - 4
 4) [u-Inhumans] - 3
 5) [u-Garfield] - 9
-6) [u-199999] - 102
+6) [u-199999] - 103
 7) [u-Deadpool] - 3
 8) [u-Legion] - 3
 9) [u-Werewolf] - 2
