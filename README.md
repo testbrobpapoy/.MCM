@@ -13,8 +13,8 @@ Criteria that shaped the list:
 - Some placements may look odd — Madame Web, I Am Groot, Logan, Black Widow... but that’s just how I felt it should be, and explaining it all would take ages, LOL :)
 
 ## The list ([IMDb](https://www.imdb.com/list/ls4105873713/?view=detailed&ref_=ext_shr_lnk))
-**Duration - 18:15:24:48 (without credits)**<br>
-**Titles - 149**<br>
+**Duration - 18:16:08:52 (without credits)**<br>
+**Titles - 150**<br>
 
 *[u-X]* X-Men (1:24:06)<br>
 *[u-Maguire]* Spider-Man (1:56:18)<br>
@@ -165,6 +165,13 @@ Criteria that shaped the list:
 *[u-828]* The Fantastic Four: First Steps (1:47:21)<br>
 *[u-616]* Wonder Man 1 season 1-8 episode (3:39:01)<br>
 *[u-616]* Daredevil: Born Again 2 season 1-8 episode (5:56:37)<br>
+*[u-616]* The Punisher: One Last Kill (0:44:04)<br>
+
+<!-- Not released and not filtered yet -->
+*[u-]* Spider-Noir 1 season 1-8 episode ()<br>
+*[u-616]* Spider-Man: Brand New Day ()<br>
+*[u-616]* VisionQuest ()<br>
+*[u-616]* Avengers: Doomsday ()<br>
 
 ## Universes
 1) [MULTIVERSE] - 6
@@ -172,7 +179,7 @@ Criteria that shaped the list:
 3) [u-Maguire] - 4
 4) [u-Inhumans] - 3
 5) [u-Garfield] - 9
-6) [u-616] - 104
+6) [u-616] - 105
 7) [u-Deadpool] - 3
 8) [u-Legion] - 3
 9) [u-Werewolf] - 2
