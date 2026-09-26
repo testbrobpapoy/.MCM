@@ -13,8 +13,8 @@ Criteria that shaped the list:
 - Some placements may look odd — Madame Web, I Am Groot, Logan, Black Widow... but that’s just how I felt it should be, and explaining it all would take ages, LOL :)
 
 ## The list ([IMDb](https://www.imdb.com/list/ls4105873713/?view=detailed&ref_=ext_shr_lnk))
-**Duration - 18:16:08:52 (without credits)**<br>
-**Titles - 150**<br>
+**Duration - 18:21:33:52 (without credits)**<br>
+**Titles - 151**<br>
 
 *[u-X]* X-Men (1:24:06)<br>
 *[u-Maguire]* Spider-Man (1:56:18)<br>
@@ -144,8 +144,9 @@ Criteria that shaped the list:
 *[u-616]* Moon Knight 1 season 1 episode (0:41:11)<br>
 *[u-Inhumans]* Inhumans 1 season 1 episode (0:41:50)<br>
 *[MULTIVERSE]* Doctor Strange in the Multiverse of Madness (1:59:39)<br>
-*[u-Werewolf]* Trailer Man-Thing (0:02:00)<br>
-*[u-Werewolf]* Werewolf by Night (0:49:16)<br>
+*[u-Noir]* Spider-Noir 1 season 1-8 episode (5:25:00)<br>
+*[u-Noir]* Trailer Man-Thing (0:02:00)<br>
+*[u-Noir]* Werewolf by Night (0:49:16)<br>
 *[u-616]* Ms. Marvel 1 season 1 episode (0:42:30)<br>
 *[u-616]* Black Panther: Wakanda Forever (2:33:56)<br>
 *[MULTIVERSE]* Ant-Man and the Wasp: Quantumania (1:57:21)<br>
@@ -167,11 +168,12 @@ Criteria that shaped the list:
 *[u-616]* Daredevil: Born Again 2 season 1-8 episode (5:56:37)<br>
 *[u-616]* The Punisher: One Last Kill (0:44:04)<br>
 
-<!-- Not released and not filtered yet -->
-*[u-]* Spider-Noir 1 season 1-8 episode ()<br>
+### Not released and not filtered yet
 *[u-616]* Spider-Man: Brand New Day ()<br>
 *[u-616]* VisionQuest ()<br>
 *[u-616]* Avengers: Doomsday ()<br>
+*[u-616]* Daredevil: Born Again 3 season ()<br>
+*[u-616]* Avengers: Secret Wars ()<br>
 
 ## Universes
 1) [MULTIVERSE] - 6
@@ -182,6 +184,6 @@ Criteria that shaped the list:
 6) [u-616] - 105
 7) [u-Deadpool] - 3
 8) [u-Legion] - 3
-9) [u-Werewolf] - 2
+9) [u-Noir] - 3
 10) [u-Blade] - 2
 11) [u-828] - 1
